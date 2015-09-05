@@ -1,0 +1,36 @@
+body {
+
+}
+.applogo{
+	height: 15px;
+	width: 15px;
+}
+.searchArea {
+	padding-top: 150px;
+}
+
+.logo{
+	max-width: 24%;
+}
+
+.searchText{
+	
+	width: 600px;
+}
+.textDiv {
+padding-top: 40px;
+width: auto;
+
+}
+.but-submit {
+	margin-top: 30px;
+	margin-right:5px;
+	border: none;
+
+}
+
+.but-lucky {
+margin-top: 30px;
+margin-left: 5px;
+border: none;
+}
